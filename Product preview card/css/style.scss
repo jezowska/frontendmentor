@@ -114,6 +114,8 @@ img {
     .wrapper{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
+        
+        justify-content: center;
     }
 
     body {
@@ -125,6 +127,7 @@ img {
 
     picture img {
         width: 100%;
-        margin-bottom: 0;
+        height: 100%;
+        margin-bottom: auto;
     }
 }
