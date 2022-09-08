@@ -1,0 +1,24 @@
+.thank-you-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5em;
+}
+
+.selected {
+    width: 60%;
+    border-radius: 1.5em;
+    background-color: hsl(211, 19%, 24%);
+    text-align: center;
+    color:  hsl(25, 97%, 53%);
+    padding: 0.5em 0.75em;
+    margin: 1.5rem auto;
+}
+
+.title {
+    margin: 2rem 0 1rem 0;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
